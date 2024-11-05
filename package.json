@@ -2,9 +2,6 @@
   "name": "tareq-hasan-portfolio",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./output/output.css --watch"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
